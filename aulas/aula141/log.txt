@@ -1,0 +1,15 @@
+Sucess: Sucesso!!!! => LogFileMixin
+Error: Error => LogFileMixin
+Sucess: Sucesso!!!! => LogFileMixin
+Error: Error => LogFileMixin
+Sucess: Sucesso!!!! => LogFileMixin
+Sucess: Galaxy S está ligado. => Smartphone
+Error: Iphone está desligado. => Smartphone
+Sucess: Galaxy S está ligado. => Smartphone
+Error: Iphone está desligado. => Smartphone
+Sucess: Galaxy S está ligado. => Smartphone
+Error: Iphone está desligado. => Smartphone
+Sucess: Galaxy S está ligado. => Smartphone
+Error: Iphone está desligado. => Smartphone
+Sucess: Galaxy S está ligado. => Smartphone
+Error: Iphone está desligado. => Smartphone
