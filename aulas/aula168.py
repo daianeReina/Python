@@ -9,7 +9,7 @@
 # Windows (antigo, cmd) = cls
 import os
 
-os.system('cls')
+os.system('clso0')
 os.system('echo "Hello world"')
 
 print('a' * 80)
