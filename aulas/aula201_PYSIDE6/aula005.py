@@ -1,13 +1,4 @@
-# QMainWindow e centralWidget
-# -> QApplication (app)
-#   -> QMainWindow (window->setCentralWidget)
-#       -> CentralWidget (central_widget)
-#           -> Layout (layout)
-#               -> Widget 1 (botao1)
-#               -> Widget 2 (botao2)
-#               -> Widget 3 (botao3)
-#   -> show
-# -> exec
+# O básico sobre Signal a Slots
 
 import sys
 
